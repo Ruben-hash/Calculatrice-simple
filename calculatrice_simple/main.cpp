@@ -63,14 +63,6 @@ int main() {
         cout << puissance(n1,  n2) << endl;
     }
 
-    if (reponse == 3){
-        cout << "Saissir un nombre:";
-        cin >> n1;
-        cout << "Saissir sa puissance:";
-        cin >> n2;
-        cout << puissance(n1,  n2) << endl;
-    }
-
     if (reponse == 4){
         cout << "Saissir un dividende:";
         cin >> div1;
